@@ -1,5 +1,5 @@
 import Sample from "./sample";
-import { ResizeGroup } from "office-ui-fabric-react/lib/ResizeGroup";
+import { ResizeGroup } from "@fluentui/react";
 import React from 'react';
 
 function onReduceScalingData(data) {
