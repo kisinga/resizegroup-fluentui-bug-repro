@@ -3,8 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@fluentui/react": "8.23.3",
-    "@fluentui/utilities": "8.3.7",
+    "@uifabric/utilities": "7.33.5",
     "office-ui-fabric-react": "6.74.0",
     "react": "16.11.0",
     "react-dom": "16.11.0",
